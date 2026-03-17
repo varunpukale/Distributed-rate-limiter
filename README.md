@@ -1,5 +1,9 @@
 # 🚀 Distributed Rate Limiter
 
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Redis](https://img.shields.io/badge/Redis-Enabled-red)
+![Flask](https://img.shields.io/badge/Flask-API-green)
+
 A scalable distributed rate limiting system built using **Python, Flask, and Redis**, designed to control API traffic across multiple services in real-time.
 
 ---
