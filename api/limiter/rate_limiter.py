@@ -1,5 +1,5 @@
 import time
-from utils.redis_client import redis_client
+from api.utils.redis_client import redis_client
 
 class RateLimiter:
     def __init__(self, limit=5, window=60):
